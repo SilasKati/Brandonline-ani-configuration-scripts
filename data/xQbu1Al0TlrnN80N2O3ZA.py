@@ -1,0 +1,1 @@
+print('This is ani-configuration-scripts repository which I worked on during my employment at Brandonline.io')
